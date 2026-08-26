@@ -124,7 +124,7 @@ I am a passionate **Software Engineer** and **Full Stack Developer** dedicated t
 ### 💬 Daily Dev Quote
 
 <!-- START_SECTION:quote -->
-> “Make it work, make it right, make it fast.” — Kent Beck
+> “Experience is the name everyone gives to their mistakes.” — Oscar Wilde
 <!-- END_SECTION:quote -->
 
 ---
@@ -132,7 +132,7 @@ I am a passionate **Software Engineer** and **Full Stack Developer** dedicated t
 <div align="center">
 
 <!-- START_SECTION:updated_at -->
-⚡ *Last updated: 2026-08-25 18:38:14 UTC*
+⚡ *Last updated: 2026-08-26 01:14:33 UTC*
 <!-- END_SECTION:updated_at -->
 
 <br/>
