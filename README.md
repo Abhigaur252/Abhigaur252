@@ -102,10 +102,8 @@ I am a passionate **Software Engineer** and **Full Stack Developer** dedicated t
 ### ⚡ Recent Activity
 
 <!-- START_SECTION:activity -->
-- 📌 Pushed to [nirvasa](https://github.com/codecurser/nirvasa): *Pushed commits*
-- ✨ Created branch [CodeLens-Backend](https://github.com/Abhigaur252/CodeLens-Backend)
-- 📌 Pushed to [CodeLens](https://github.com/Abhigaur252/CodeLens): *Pushed commits*
-- 📌 Pushed to [Abhigaur252](https://github.com/Abhigaur252/Abhigaur252): *Pushed commits*
+- 🚀 Building cool projects & pushing code to GitHub!
+- ⚙️ Working on full-stack web apps, Java backends, and AI models.
 <!-- END_SECTION:activity -->
 
 ---
@@ -125,7 +123,7 @@ I am a passionate **Software Engineer** and **Full Stack Developer** dedicated t
 ### 💬 Daily Dev Quote
 
 <!-- START_SECTION:quote -->
-> “Optimism is an occupational hazard of programming: feedback is the treatment.” — Kent Beck
+> “First, solve the problem. Then, write the code.” — John Johnson
 <!-- END_SECTION:quote -->
 
 ---
@@ -133,7 +131,7 @@ I am a passionate **Software Engineer** and **Full Stack Developer** dedicated t
 <div align="center">
 
 <!-- START_SECTION:updated_at -->
-⚡ *Last updated: 2026-09-17 20:58:29 UTC*
+⚡ *Last updated: 2026-09-18 03:22:48 UTC*
 <!-- END_SECTION:updated_at -->
 
 <br/>
