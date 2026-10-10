@@ -102,7 +102,8 @@ I am a passionate **Software Engineer** and **Full Stack Developer** dedicated t
 ### ⚡ Recent Activity
 
 <!-- START_SECTION:activity -->
-- 📌 Pushed to [nirvasa](https://github.com/codecurser/nirvasa): *Pushed commits*
+- 🚀 Building cool projects & pushing code to GitHub!
+- ⚙️ Working on full-stack web apps, Java backends, and AI models.
 <!-- END_SECTION:activity -->
 
 ---
@@ -122,7 +123,7 @@ I am a passionate **Software Engineer** and **Full Stack Developer** dedicated t
 ### 💬 Daily Dev Quote
 
 <!-- START_SECTION:quote -->
-> “Knowledge is power.” — Francis Bacon
+> “Java is to JavaScript what car is to carpet.” — Chris Heilmann
 <!-- END_SECTION:quote -->
 
 ---
@@ -130,7 +131,7 @@ I am a passionate **Software Engineer** and **Full Stack Developer** dedicated t
 <div align="center">
 
 <!-- START_SECTION:updated_at -->
-⚡ *Last updated: 2026-10-10 17:15:37 UTC*
+⚡ *Last updated: 2026-10-10 21:12:41 UTC*
 <!-- END_SECTION:updated_at -->
 
 <br/>
