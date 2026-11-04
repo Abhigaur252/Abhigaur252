@@ -102,7 +102,8 @@ I am a passionate **Software Engineer** and **Full Stack Developer** dedicated t
 ### ⚡ Recent Activity
 
 <!-- START_SECTION:activity -->
-- 📌 Pushed to [nirvasa](https://github.com/codecurser/nirvasa): *Pushed commits*
+- 🚀 Building cool projects & pushing code to GitHub!
+- ⚙️ Working on full-stack web apps, Java backends, and AI models.
 <!-- END_SECTION:activity -->
 
 ---
@@ -130,7 +131,7 @@ I am a passionate **Software Engineer** and **Full Stack Developer** dedicated t
 <div align="center">
 
 <!-- START_SECTION:updated_at -->
-⚡ *Last updated: 2026-11-04 13:49:45 UTC*
+⚡ *Last updated: 2026-11-04 23:15:11 UTC*
 <!-- END_SECTION:updated_at -->
 
 <br/>
